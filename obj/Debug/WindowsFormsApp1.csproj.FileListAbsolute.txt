@@ -1,0 +1,93 @@
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDangKy.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDangNhap.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBacSi.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBenhNhan.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormDuocPham.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormNhanVien.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormPhong.resources
+C:\Users\theky\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormThongKe.resources
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDangNhap.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBacSi.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBenhNhan.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormDuocPham.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormNhanVien.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormPhong.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormThongKe.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDangKy.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C#\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDangNhap.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBacSi.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBenhNhan.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormDuocPham.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormNhanVien.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormPhong.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormThongKe.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDangKy.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\theky\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDangNhap.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBacSi.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormBenhNhan.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormDuocPham.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormNhanVien.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormPhong.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormThongKe.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDangKy.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMain.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\theky\Downloads\AppQLPK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
